@@ -1,0 +1,11 @@
+Robertson	Myra	13
+Smith	Neal	46
+Arlec	Lisa	77
+Fillipo	Paul	19
+Denver	Paul	7
+Graham	Bill	12
+Sanchez	Jim	33
+White	Peter	28
+Phelp	David	76
+Lewis	Sheila	41
+James	Thomas	55
